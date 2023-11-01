@@ -16,6 +16,7 @@ public class BananaCoconut {
 		 * Variable num holds the conversion to an integer
 		 */
 		char character = 'a';
+		int num = 9;
 		boolean check = true;
 		int num;
 		
