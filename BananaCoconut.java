@@ -18,7 +18,7 @@ public class BananaCoconut {
 		char character = 'a';
 		boolean check = true;
 		int num;
-		
+		int something = -1;
 		for (int i = 0; i < args.length; i++) {
 			
 			try {
